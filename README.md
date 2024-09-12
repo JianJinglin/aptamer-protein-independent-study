@@ -1,4 +1,4 @@
-# Aptamer-Protein-independent-study
+# Independent Study: Aptamer-protein interaction
 
 # Project Repository
 
