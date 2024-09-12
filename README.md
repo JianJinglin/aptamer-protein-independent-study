@@ -13,8 +13,8 @@ Welcome to our project repository. This space is used for code synchronization a
 
 | Week | Date | Tasks |
 |------|------|-------|
-| wk3-wk4 | 9/13-9/22 | <br> T0: read the background and pipeline illustration, and understand what's your todos. </br>
-T1: read the code I provided in "WK3" folder and try one new sequence you randomly create to make the pipeline run! 
+| wk3-wk4 | 9/13-9/22 | T0: read the background and pipeline illustration, and understand what's your todos. <br>
+T1: read the code I provided in "WK3" folder and try one new sequence you randomly create to make the pipeline run! <br> 
 T2: massively repeat the process to generate more than 1000 pairs for each protein |
 
 *Note: Tasks will be updated as the project progresses.*
