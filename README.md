@@ -7,7 +7,7 @@ Welcome to our project repository. This space is used for code synchronization a
 ## Shared Resources
 
 - **Code Repository**: You're currently viewing it.
-- **Shared Folder**: For gathering final result files (e.g., hdock.out files and final Excel files for wk3-4), please use [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfFbKa1EJXjUej9CEFCLFRBD9JPUyrNlawCveFGuFYYlzbN3g/viewform).
+- **Shared Folder**: For gathering final result files (e.g., hdock.out files and final Excel files for wk3-4), please use [this Google Folder](https://drive.google.com/drive/folders/1eraY7pbQy4Uo33GSwMmUAgf2pTyNLxYS?usp=drive_link).
 
 ## Project Timeline
 
