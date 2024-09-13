@@ -1,7 +1,5 @@
 # Independent Study: Aptamer-protein interaction
 
-# Project Repository
-
 Welcome to our project repo. This space is used for code sharing and collaboration.
 
 ## Shared Resources
@@ -13,7 +11,7 @@ Welcome to our project repo. This space is used for code sharing and collaborati
 
 | Week | Date | Tasks |
 |------|------|-------|
-| wk3-wk4 | 9/13-9/22 | T0: read the background and pipeline illustration, and understand what's your todos. <br> T1: build the hdock docker on your windows laptop <br> T2: read the code I provided in "WK3" folder and try one new sequence you randomly create to make the pipeline run! |
+| wk3-wk4 | 9/13-9/22 | T0: read the background and pipeline illustration, and understand what's your todos. <br> T1: build the hdock docker on your windows laptop <br> T2: read the code I provided in "pipeline" folder and try one new sequence you randomly create to make the pipeline run! |
 | wk5 | 9/23-9/29 | T3: massively repeat the process to generate more than 1000 pairs for each protein (You may need to create functions to achieve this).|
 
 *Note: Tasks will be updated as the project progresses.*
@@ -21,4 +19,4 @@ Welcome to our project repo. This space is used for code sharing and collaborati
 ## Getting Started
 
 1. Read this readme file and the "0912_Framework for Independent Study.pdf" in this repo.
-2. Follow the task description in pdf. For WK3-WK4, your final goal is to successfully run the pipeline and upload two hdock.out with one results file (Excel) in the Google folder.
+2. Follow the task description in that pdf. For WK3-WK4, your final goal is to successfully run the pipeline and upload two hdock.out with one results file (Excel) in the Google folder.
