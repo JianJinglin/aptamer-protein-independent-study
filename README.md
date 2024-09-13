@@ -1,7 +1,5 @@
 # Independent Study: Aptamer-protein interaction
 
-# Project Repository
-
 Welcome to our project repo. This space is used for code sharing and collaboration.
 
 ## Shared Resources
@@ -21,4 +19,4 @@ Welcome to our project repo. This space is used for code sharing and collaborati
 ## Getting Started
 
 1. Read this readme file and the "0912_Framework for Independent Study.pdf" in this repo.
-2. Follow the task description in pdf. For WK3-WK4, your final goal is to successfully run the pipeline and upload two hdock.out with one results file (Excel) in the Google folder.
+2. Follow the task description in that pdf. For WK3-WK4, your final goal is to successfully run the pipeline and upload two hdock.out with one results file (Excel) in the Google folder.
