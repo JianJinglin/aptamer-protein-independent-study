@@ -38,3 +38,24 @@ class Grader:
         diff = (b - a) / scale_factor
         mapped_value = self.logistic(diff)
         return mapped_value
+
+    def run_hdock_parallel(self, apta):
+        dna_file_path = get_dna_composition_and_download(apta)
+        with ThreadPoolExecutor() as executor:
+            futures = [executor.submit(get_scores_with_hdock, dna_file_path, './protein_pdb_files/C3dg.pdb'),
+                        executor.submit(get_scores_with_hdock, dna_file_path, './protein_pdb_files/2a73.pdb')]
+            results = [future.result() for future in futures]
+            target_score = results[0]
+            non_target_score = results[1]
+        return results
+    
+    def test_one_sequence(self, aptamer_sequence):
+        print(f"Testing aptamer sequence: {aptamer_sequence}")
+        results = self.run_hdock_parallel(aptamer_sequence)
+        print(f"Results: {results}")
+        return results
+
+# example
+grader = Grader()
+aptamer_sequence = "TCACCGCCGTTTTAA"  # your aptamer sequence
+grader.test_one_sequence(aptamer_sequence)
